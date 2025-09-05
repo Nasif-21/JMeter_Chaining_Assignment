@@ -12,7 +12,14 @@ Dmoney is fintech app, where a customer can withdraw,deposit,send money & make p
 + Control statement
 + API request
 
+## Running API chaining in JMeter
++ clone this repo
++ Open dmoney.jmx using Apache Jmeter
++ Under a test plan, there are different thread for deposit, withdraw and send money
++ To see each test is successful, open the View result tree
 
+## Generate the JMeter report
++
 
 ## Attachment
 ### Screenshot of JMeter Dashboard
